@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Apple
+comment0.text=\r\n\ The\ apple\ is\ eaten\ by\ the\ Snake\ and\ then\ changes\ its\ Position\r\n\ \r\n\ @author\ Tim\ H\u00F6hn\ &\ Athavan\ Ranganathan\ \r\n\ @version\ V2\r\n
+comment1.params=xPadding\ yPadding
+comment1.target=Apple(int,\ int)
+comment2.params=
+comment2.target=void\ chooseNewLocation()
+comment3.params=
+comment3.target=int[]\ generateRandomPos()
+numComments=4

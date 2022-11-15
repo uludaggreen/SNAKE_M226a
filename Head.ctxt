@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Head
+comment0.text=\r\n\ The\ Head\ part\ of\ the\ Snake\ "eats"\ the\ Apple.\r\n\ \r\n\ @author\ Tim\ H\u00F6hn\ &\ Athavan\ Ranganathan\ \r\n\ @version\ V2\r\n
+comment1.params=
+comment1.target=Head()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForCollision()
+comment4.params=
+comment4.target=void\ getNewHeadingDirection()
+comment5.params=
+comment5.target=void\ updateRotation()
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Body
+comment0.text=\r\n\ The\ Body\ will\ grow\ when\ the\ Snake\ eats\ an\ apple.\r\n\ \r\n\ @author\ Tim\ H\u00F6hn\ &\ Athavan\ Ranganathan\r\n\ @version\ V2\r\n
+comment1.params=world\ tileToFollow\ head\ id
+comment1.target=Body(greenfoot.World,\ SnakeTile,\ Head,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForTurnPoint()
+comment4.params=
+comment4.target=int[]\ getSpawnLocation()
+comment5.params=
+comment5.target=void\ addToWorld()
+numComments=6
